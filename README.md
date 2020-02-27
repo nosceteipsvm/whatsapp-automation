@@ -1,7 +1,7 @@
 # Whatsapp automation
 
 ### Overview
-This project is an example demo showcasing the massive messaging automation using Whatsapp and Python 3.
+This project is an example demo showcasing Whatsapp automation using Python 3.
 
 ### Setup
 -----------
